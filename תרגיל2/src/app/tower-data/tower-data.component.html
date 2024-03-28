@@ -1,0 +1,20 @@
+<h3 class="m-5 text-color">{{title}}</h3>
+<form class="m-5" method="post modal-content animate" [formGroup]="towerForm!" (submit)="okForm()">
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="גובה" formControlName="height" /><br>
+        <div class="small text-red" *ngIf="getHeight.invalid && (getHeight.dirty||getHeight.touched)">
+            <p *ngIf="getHeight.hasError('required')">שדה חובה</p>
+            <p *ngIf="getHeight.hasError('min') && !getHeight.hasError('required')">גובה מינימלי למגדל הוא 2</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="רוחב" formControlName="width" /><br>
+        <div class="small text-red" *ngIf="getWidth.invalid && (getWidth.dirty||getWidth.touched)">
+            <p *ngIf="getWidth.hasError('required')">שדה חובה</p>
+        </div>
+    </div>
+    <div class="form-group d-flex justify-content-center">
+        <input class="btn btn-primary btn-block background-color" type="submit" [disabled]="towerForm!.invalid" />
+    </div>
+</form>
+
