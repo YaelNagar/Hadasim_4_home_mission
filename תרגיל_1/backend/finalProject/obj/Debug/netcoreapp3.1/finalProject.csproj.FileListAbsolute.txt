@@ -1,0 +1,225 @@
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.exe
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csprojAssemblyReference.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfoInputs.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfo.cs
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.RazorTargetAssemblyInfo.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Manifest.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.xml
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CopyComplete
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.deps.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.dev.json
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.pdb
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CoreCompileInputs.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.pdb
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.genruntimeconfig.cache
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\BLL.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\DAL.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\DTO.dll
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\BLL.pdb
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\DTO.pdb
+X:\הנדסאים שנה ב תשפג\WEB API\שיעורי בית\yael nagar\project\finalProject\bin\Debug\netcoreapp3.1\DAL.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.json
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.exe
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.deps.json
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.json
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.dev.json
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\BLL.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\DAL.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\DTO.dll
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\BLL.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\DTO.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\bin\Debug\netcoreapp3.1\DAL.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.AssemblyReference.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfoInputs.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfo.cs
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CoreCompileInputs.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Manifest.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.xml
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\scopedcss\bundle\finalProject.styles.css
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.RazorTargetAssemblyInfo.cache
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CopyComplete
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.dll
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.pdb
+H:\‏‏תיקיה חדשה\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.exe
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.deps.json
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.json
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\BLL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\BLL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CopyComplete
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.pdb
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.genruntimeconfig.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.finalProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.finalProject.props
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.finalProject.props
+C:\Users\User\Desktop\לימודים\שנה ב\web api\פרוייקט WEB API\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.finalProject.props
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.AssemblyInfo.cs
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.pdb
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.exe
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.deps.json
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.json
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\finalProject.pdb
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Web.Http.WebHost.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\Swashbuckle.Core.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\WebActivatorEx.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\BL.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\DAL.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\DTO.dll
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\BL.pdb
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\DTO.pdb
+C:\Users\User\Desktop\coronaProject\project\finalProject\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.csproj.CopyComplete
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.genruntimeconfig.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\finalProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\finalProject.StaticWebAssets.Pack.cache
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.finalProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.finalProject.props
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.finalProject.props
+C:\Users\User\Desktop\coronaProject\project\finalProject\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.finalProject.props
