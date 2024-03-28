@@ -1,0 +1,111 @@
+<div class="d-flex justify-content-center">
+<form class="p-4 text-right w-50" [formGroup]="form!" (ngSubmit)="okForm()">
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="תעודת זהות" formControlName="identity"
+            [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getIdentity.invalid && (getIdentity.dirty||getIdentity.touched)">
+            <p *ngIf="getIdentity.hasError('required')">שדה חובה</p>
+            <p *ngIf="getIdentity.hasError('invalidLegalId') && !getIdentity.hasError('required')">תעודת זהות לא תקינה</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="שם פרטי" formControlName="firstName"
+            [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getFirstName.invalid && (getFirstName.dirty||getFirstName.touched)">
+            <p *ngIf="getFirstName.hasError('required')">שדה חובה</p>
+            <p *ngIf="getFirstName.hasError('pattern') && !getFirstName.hasError('required')">שדה זה יכול להכיל אותיות
+                בלבד</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <input class="form-control" type="text" placeholder="שם משפחה" formControlName="lastName"
+            [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getLastName.invalid && (getLastName.dirty||getLastName.touched)">
+            <p *ngIf="getLastName.hasError('required')">שדה חובה</p>
+            <p *ngIf="getLastName.hasError('pattern') && !getLastName.hasError('required')">שדה זה יכול להכיל אותיות
+                בלבד</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input class="form-control" type="date" placeholder="תאריך לידה" formControlName="birthDate" [max]="today"
+            [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getBirthDate.invalid && (getBirthDate.dirty||getBirthDate.touched)">
+            <p *ngIf="getBirthDate.hasError('required')">שדה חובה</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input class="form-control" type="tel" placeholder="טלפון" formControlName="telephone"
+            [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getTelephone.invalid && (getTelephone.dirty||getTelephone.touched)">
+            <p *ngIf="getTelephone.hasError('required')">שדה חובה</p>
+            <p *ngIf="getTelephone.hasError('pattern') && !getTelephone.hasError('required')">מספר טלפון לא תקין
+            </p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input class="form-control" type="tel" placeholder="פלאפון" formControlName="phone" [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getPhone.invalid && (getPhone.dirty||getPhone.touched)">
+            <p *ngIf="getPhone.hasError('required')">שדה חובה</p>
+            <p *ngIf="getPhone.hasError('pattern') && !getPhone.hasError('required')">מספר פלאפון לא תקין</p>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input class="form-control" type="tel" placeholder="כתובת" formControlName="address" [readonly]="readonly" /><br>
+        <div class="small text-red" *ngIf="getAddress.invalid && (getAddress.dirty||getAddress.touched)">
+            <p *ngIf="getAddress.hasError('required')">שדה חובה</p>
+            <p *ngIf="getAddress.hasError('pattern') && !getAddress.hasError('required')">כתובת לא חוקית</p>
+        </div>
+    </div>
+    
+
+    <div class="form-group d-flex justify-content-center">
+        <button [disabled]="form.invalid" class="btn btn-block background-color pointer" type="submit"
+           >{{textSubmit}}</button>
+    </div>
+</form>
+<div *ngIf="showMoreDetails">
+    <div class="m-3">
+        <div *ngIf="hmoMember?.CoronaPatients">
+            <div class="bold">חלה בקורונה:</div>
+            <div *ngFor="let item of hmoMember.CoronaPatients" class="d-flex">
+                <div class="ps-3">תאריך התחלה: {{item.CoronaBeginDate | date : 'dd/MM/yy'}},</div>
+                <div class="ps-3">תאריך סיום: {{item.CoronaEndDate | date : 'dd/MM/yy'}}</div>
+            </div>
+        </div>
+        <button [disabled]="readonly" class="btn btn-block background-color pointer" *ngIf="!addCoronaPatients" (click)="addCoronaPatients=true">הוסף מחלה בקורונה</button>
+        <div *ngIf="addCoronaPatients">
+            <form  [formGroup]="coronaPatientsForm!" (ngSubmit)="saveCoronaPatients()">
+                <input class="form-control" type="date" placeholder="תאריך תחילת המחלה" formControlName="coronaBeginDate" [max]="today"
+                [readonly]="readonly" /><br>
+                <input class="form-control" type="date" placeholder="תאריך סיום המחלה" formControlName="coronaEndDate" [min]="coronaPatientsForm.controls['coronaBeginDate'].value"
+                [readonly]="readonly" /><br>
+                <button class="btn btn-block background-color pointer" type="submit">שמור</button>
+            </form>
+        </div>
+    </div>
+    <div class="m-3">
+        <div *ngIf="hmoMember?.VaccineToMember">
+            <div class="bold">חיסוני קורונה שקיבל:</div>
+            <div *ngFor="let item of hmoMember.VaccineToMember" class="d-flex">
+                <div class="ps-3" *ngIf="item.CoronaVaccine">סוג חיסון: {{item.CoronaVaccine.TypeVaccine}},</div>
+                <div class="ps-3" *ngIf="item.CoronaVaccine">יצרן חיסון: {{item.CoronaVaccine.ManufacturerVaccine}}</div>
+            </div>
+        </div>
+        <button [disabled]="readonly" class="btn btn-block background-color pointer" *ngIf="!addCoronaVaccines" (click)="addCoronaVaccines=true">הוספת חיסון קורונה שקיבל</button>
+        <div *ngIf="addCoronaVaccines">
+            <form [formGroup]="vaccineToMemberForm!" (ngSubmit)="saveCoronaVaccines()">
+                <select class="form-control" formControlName="idVaccine">
+                    <option *ngFor="let item of coronaVaccines" [value]="item.Id">סוג חיסון: {{item.TypeVaccine}}, יצרן: {{item.ManufacturerVaccine}}</option>
+                </select>
+                <div class="small text-red" *ngIf="uniqErr"> חיסון זה קיים עבור חבר הקופה </div>
+                <button class="btn btn-block background-color pointer" type="submit">שמור</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+</div>

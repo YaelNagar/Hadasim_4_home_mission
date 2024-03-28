@@ -1,0 +1,39 @@
+:root {
+    --green: darkseagreen;
+  }
+
+  .background-color {
+    background-color: var(--green) !important;
+  }
+
+  .text-color {
+    color: var(--green) !important;
+  }
+
+  body {
+    direction: rtl;
+  }
+
+  .table-hover>tbody>tr:hover {
+    --bs-table-accent-bg: var(--green);
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.d-rtl{
+    direction: rtl;
+}
+
+.text-red{
+    color: red
+}
+
+.bold{
+  font-weight: bold;
+}

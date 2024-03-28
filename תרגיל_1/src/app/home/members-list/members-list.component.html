@@ -1,0 +1,34 @@
+<div class="center text-center">
+    <div class="container">
+        <table class="table table-hover table-fixed">
+            <thead>
+                <tr class="active">
+                    <th>טלפון</th>
+                    <th>תאריך לידה</th>
+                    <th>שם משפחה</th>
+                    <th>שם פרטי</th>
+                    <th>תעודת זהות</th>
+                    <th>קוד</th>
+                    <th>פרטים נוספים</th>
+                    <th>עריכה</th>
+                    <th>מחיקה</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let members of membersList">
+                    <td>{{members.Telephone}}</td>
+                    <td>{{members.BirthDate | date:'dd/MM/yyyy'}}</td>
+                    <td>{{members.LastName}}</td>
+                    <td>{{members.FirstName}}</td>
+                    <td>{{members.Identity}}</td>
+                    <td>{{members.Id}}</td>
+                    <td><div class="material-icons pointer" (click)="show(members.Id!)">more_horiz</div></td>
+                    <td><div class="material-icons pointer" (click)="edit(members.Id!)">edit</div></td>
+                    <td><div class="material-icons pointer" (click)="delete(members.Id!)">delete</div></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+<button class="background-color p-2 mt-4" mat-raised-button (click)="add()">הוסף חבר קופה</button>
+</div>
+<router-outlet></router-outlet>
